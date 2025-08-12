@@ -7,3 +7,9 @@ https://youtube.com/playlist?list=PL712E709B05086D32&si=mWc0lzidwIHkj5Tw : Speci
 https://youtube.com/playlist?list=PLoaVOjvkzQtyjhV55wZcdicAz5KexgKvm&si=U5eJbVazC9jsnfr8 : Intro to Special Relativity Course
 
 https://youtu.be/0DHNGtsmmH8?si=u5KJCR9AkWEaz-qt : Lagrangian and Hamiltonian Mechanics
+
+https://probabilitycourse.com/ : Probability Course
+
+https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/ : Automata Theory MIT Course
+
+https://www.youtube.com/playlist?list=PLDQaRcbiSnqF5U8ffMgZzS7fq1rHUI3Q8 : Network Fundamentals
