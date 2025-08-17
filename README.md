@@ -18,4 +18,4 @@ https://youtube.com/playlist?list=PLMrJAkhIeNNR3sNYvfgiKgcStwuPSts9V&si=SF1JOkUj
 
 https://youtube.com/playlist?list=PLMrJAkhIeNNT14qn1c5qdL29A1UaHamjx&si=JQrQc-nfesGbndx5 : Statistics and Data Analysis Playlist
 
-https://youtu.be/h7apO7q16V0?si=FSCyvejnQGXt8Ov3 : FFT
+https://youtube.com/playlist?list=PLpXOY-RxVRTNBfxhIuqoZcWtg-JZKCktX&si=JijCq-NTxi82GPUi : FFT
