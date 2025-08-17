@@ -17,3 +17,5 @@ https://www.youtube.com/playlist?list=PLDQaRcbiSnqF5U8ffMgZzS7fq1rHUI3Q8 : Netwo
 https://youtube.com/playlist?list=PLMrJAkhIeNNR3sNYvfgiKgcStwuPSts9V&si=SF1JOkUj86kp_cyA : Probability Playlist
 
 https://youtube.com/playlist?list=PLMrJAkhIeNNT14qn1c5qdL29A1UaHamjx&si=JQrQc-nfesGbndx5 : Statistics and Data Analysis Playlist
+
+https://youtu.be/h7apO7q16V0?si=FSCyvejnQGXt8Ov3 : FFT
