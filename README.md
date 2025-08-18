@@ -23,3 +23,5 @@ https://youtube.com/playlist?list=PLpXOY-RxVRTNBfxhIuqoZcWtg-JZKCktX&si=JijCq-NT
 https://youtube.com/playlist?list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp&si=8aCU2nyS-LPMKK1h : AAD MIT Course 
 
 https://youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&si=v7U3Tulysh8toAcW : Probability MIT Course 
+
+https://youtube.com/playlist?list=PLBlnK6fEyqRgp46KUv4ZY69yXmpwKOIev&si=lHfbqdXZKbvndLT8 : AT Neso
