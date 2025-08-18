@@ -18,7 +18,7 @@ https://youtube.com/playlist?list=PLMrJAkhIeNNR3sNYvfgiKgcStwuPSts9V&si=SF1JOkUj
 
 https://youtube.com/playlist?list=PLMrJAkhIeNNT14qn1c5qdL29A1UaHamjx&si=JQrQc-nfesGbndx5 : Statistics and Data Analysis Playlist Steve Brunton
 
-https://youtube.com/playlist?list=PLpXOY-RxVRTNBfxhIuqoZcWtg-JZKCktX&si=JijCq-NTxi82GPUi : FFT
+https://youtube.com/playlist?list=PLpXOY-RxVRTNBfxhIuqoZcWtg-JZKCktX&si=JijCq-NTxi82GPUi : FFT reducible
 
 https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015 : AAD MIT Course 
 
