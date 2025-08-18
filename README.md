@@ -20,4 +20,6 @@ https://youtube.com/playlist?list=PLMrJAkhIeNNT14qn1c5qdL29A1UaHamjx&si=JQrQc-nf
 
 https://youtube.com/playlist?list=PLpXOY-RxVRTNBfxhIuqoZcWtg-JZKCktX&si=JijCq-NTxi82GPUi : FFT
 
-https://youtube.com/playlist?list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp&si=8aCU2nyS-LPMKK1h : AAD MIT
+https://youtube.com/playlist?list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp&si=8aCU2nyS-LPMKK1h : AAD MIT Course 
+
+https://youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&si=v7U3Tulysh8toAcW : Probability MIT Course 
