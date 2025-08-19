@@ -1,3 +1,10 @@
+Prof Repos and Notes
+
+  https://karthikv1392.github.io/cs3301_osn/ - OSN
+  https://sites.google.com/view/shchakra/teaching/m25-automata-theory - AT
+  https://iiitaphyd-my.sharepoint.com/:o:/g/personal/prabhakar_b_iiit_ac_in/EsxWk2S9tPJKspLSVfM3QHMBjbN1kNe7dUT8A3PlQCpATA?e=RYVNCl - Science 1
+  
+
 https://www.feynmanlectures.caltech.edu/ :  Feynman lectures on Physics
 
 https://youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr&si=U_EgzuFagToXCQza :  Essence of Calculus 3b1b
