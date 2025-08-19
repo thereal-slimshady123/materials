@@ -1,4 +1,4 @@
-Prof Repos and Notes
+Prof Repos and Notes:
 
   https://karthikv1392.github.io/cs3301_osn/ - OSN
   https://sites.google.com/view/shchakra/teaching/m25-automata-theory - AT
