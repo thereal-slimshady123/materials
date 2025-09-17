@@ -36,3 +36,6 @@ https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015
 https://ocw.mit.edu/courses/18-440-probability-and-random-variables-spring-2014 : Probability MIT Course 
 
 https://youtube.com/playlist?list=PLBlnK6fEyqRgp46KUv4ZY69yXmpwKOIev&si=lHfbqdXZKbvndLT8 : AT Neso
+
+https://www.youtube.com/playlist?list=PL22aiDTI7A64U30SRrElmcRLfGpEmtlZE : AAD VarPi
+
